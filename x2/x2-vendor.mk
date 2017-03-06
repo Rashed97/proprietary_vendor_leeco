@@ -115,7 +115,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/x2/proprietary/etc/firmware/cyccg_table.cybin:system/etc/firmware/cyccg_table.cybin \
     vendor/leeco/x2/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/leeco/x2/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/leeco/x2/proprietary/etc/firmware/modem_pr/mbn_upgrade_info:system/etc/firmware/modem_pr/mbn_upgrade_info \
+    vendor/leeco/x2/proprietary/etc/firmware/modem_pr/mbn_ota.txt:system/etc/firmware/modem_pr/mbn_ota.txt \
     vendor/leeco/x2/proprietary/etc/firmware/modem_pr/mcfg_sw_att.mbn:system/etc/firmware/modem_pr/mcfg_sw_att.mbn \
     vendor/leeco/x2/proprietary/etc/firmware/modem_pr/mcfg_sw_cmcc.mbn:system/etc/firmware/modem_pr/mcfg_sw_cmcc.mbn \
     vendor/leeco/x2/proprietary/etc/firmware/modem_pr/mcfg_sw_ct.mbn:system/etc/firmware/modem_pr/mcfg_sw_ct.mbn \
